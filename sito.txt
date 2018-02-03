@@ -1,0 +1,25 @@
+http://www.informagare.it/
+
+http://www.informagare.it/riepiloghi_ultimi_sette.php?regione=campania
+
+http://www.informagare.it/risultato.php?regione=campania
+
+http://www.informagare.it/risultato.php?regione=campania
+http://www.informagare.it/risultato.php?provincia=NA
+
+
+
+a = anno, m = mese
+http://www.informatel.it/bandi/index.php?a=2017&m=1
+
+stesso di etruria
+http://www.garaveloce.net/gare 
+
+
+http://www.dataopen.com/appalti/bandinuovi/data/2017-01-28
+
+regione lombardia
+http://www.sintel.regione.lombardia.it/eprocdata/sintelSearch.xhtml
+
+provicia regiocalabria
+https://garetelematiche.provincia.rc.it/portale/index.php/bandi?scaduti=no&tipobando=
